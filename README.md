@@ -1,6 +1,8 @@
 # Demivim
 My personal configuration for NVIM. 
 
+[Codeberg](https://codeberg.org/demiurge94/demivim) is where this is primarily hosted.
+
 ## Quick setup: 
 A git pull into `.config` for macOS/linux 
 
